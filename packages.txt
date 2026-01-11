@@ -1,4 +1,5 @@
 tesseract-ocr
-tesseract-ocr-chi-sim  # 如果需要中文识别
-libgl1-mesa-glx  # OpenGL 支持
+tesseract-ocr-chi-sim  
+libgl1-mesa-glx  
+
 libglib2.0-0
